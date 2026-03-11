@@ -15,6 +15,8 @@ Columns: Order_ID, Customer_Name, Item, Quantity, Price, Total, Order_Date, Chan
 
 ## TODOs
 
+**TODO 0** - Create an output folder under the data folder for your results.
+
 **TODO 1** — Create a SparkSession with appName "CoffeeExercise", master
 `spark://spark-master:7077`, and log level WARN.
 
